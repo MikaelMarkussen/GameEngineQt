@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  Dialogue.cpp
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(157,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(219,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(237,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(266,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\Dialogue.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+  DialogueBranch.cpp
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\DialogueBranch.cpp(33,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\DialogueBranch.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\DialogueBranch.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\DialogueBranch.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+  dllmain.cpp
+  Generating Code...
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\DialogueBranch.cpp(72): warning C4715: 'ProceedBranch': not all control paths return a value
+C:\Users\halvo\Downloads\DialogueDLL\DialogueDLL\DialogueBranch.cpp(81): warning C4715: 'GetNextInBranch': not all control paths return a value
+  DialogueDLL.vcxproj -> C:\Users\halvo\Downloads\DialogueDLL\Debug\DialogueDLL.dll

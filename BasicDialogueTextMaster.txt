@@ -1,0 +1,9 @@
+First
+Pure testing
+%END
+Second
+Even more testing
+%END
+Third
+Further testing
+%END

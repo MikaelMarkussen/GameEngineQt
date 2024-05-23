@@ -1,0 +1,17 @@
+FirstVar
+Pure
+%sINTs
+testing
+%sFLOATs
+here
+%sSTRINGs
+yahoo
+%END
+SecondVar
+More 
+testing
+%sSTRINGs
+purely 
+for 
+testing
+%END
